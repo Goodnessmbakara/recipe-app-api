@@ -2,7 +2,7 @@
 name: Checks
 # github actions setup
 
-on: [push]
+on: [push] 
 
 jobs:
   test-lint:
